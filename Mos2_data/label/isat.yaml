@@ -1,0 +1,9 @@
+label:
+- color: '#000000'
+  name: __background__
+- color: '#ef2929'
+  name: monolayer
+- color: '#00aa00'
+  name: fewlayer
+- color: '#729fcf'
+  name: multilayer

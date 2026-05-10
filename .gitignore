@@ -1,0 +1,50 @@
+# Generated / intermediate datasets
+Mos2_data_augmented/
+/other_datav2/
+/other_datav2_cv/
+supplementary_data/
+supplementary_prepared/WS2_combined/
+scripts/run_transfer_line3.sh
+scripts/run_phase_c.sh
+
+# Internal experiment archives not included in the public release
+compare_refer/
+explain/
+
+# Outputs (checkpoints, logs, images)
+output/
+train_before/
+checkpoints/
+runs/
+
+# Model weights
+*.pth
+*.pt
+
+# Logs
+nohup*.log
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# System
+.DS_Store
+*.swp
+desktop.ini
+Thumbs.db
+*Zone.Identifier*
+
+# Temp
+tmp/
+
+# Gemini / IDE
+.gemini/
+/.claude/
+/.vscode-ai-images/
+
+# Large files
+*.csv
+codex_session_*.md
