@@ -117,11 +117,6 @@ python transfer/finetune.py \
 
 The shell scripts in `scripts/` reproduce the experiment groups used during development.
 
-## Notes For Reproducibility
-
-- Checkpoints are not included in the repository. Train locally or provide pretrained weights separately.
-- Several plotting and batch-run scripts may need path cleanup if you run them outside the repository root.
-- Dataset and result files included in this release are intended to support reproduction of the reported experiments.
 
 ## License
 
